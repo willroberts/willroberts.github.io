@@ -49,7 +49,7 @@ This is a simple first-person game where the player is tasked with finding the w
 
 All game logic is implemented in C++.
 
-<img src="images/BuildingEscape.png" alt="Building Escape Game" />
+<img src="images/BuildingEscape.png" width=480 alt="Building Escape Game" />
 
 ## Pong Clone (Custom SDL2 Engine, 2017)
 
@@ -65,4 +65,4 @@ The character can move around the map one step at a time, using a turn-based sys
 
 Art assets are from Jesse Freeman's [Tile Crusader](https://web.archive.org/web/20161122175612/http://jessefreeman.com/articles/free-game-art-tile-crusader), released under a public license.
 
-<img src="images/UntitledRPG.png" width="480" alt="Untitled RPG" />
+<img src="images/UntitledRPG.png" width=480 alt="Untitled RPG" />
