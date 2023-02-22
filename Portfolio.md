@@ -35,7 +35,7 @@ Github URL: https://github.com/open-duelyst/duelyst
 
 # Minecraft RCON Clients (Game Tools, 2021)
 
-I developed and published open-source RCON (remote server console) libraries written in Go, C#, Rust, TypeScript, Kotlin, and Scala for _Minecraft_, which uses Valve's `srcds` RCON protocol. These libraries enable players who are hosting _Minecraft_ servers to control them remotely, for administration or moderation purposes.
+I developed and published open-source RCON (remote server console) libraries written in Go, C#, Rust, TypeScript, Kotlin, and Scala for _Minecraft_, which uses Valve's [Source Engine RCON Protocol](https://developer.valvesoftware.com/wiki/Source_RCON_Protocol). These libraries enable players who are hosting _Minecraft_ servers to control them remotely, for administration or moderation purposes.
 
 Each library is designed to follow the best practices for its language, particularly around unit testing, linting, documentation, and packaging.
 
