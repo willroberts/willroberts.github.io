@@ -22,4 +22,4 @@ This is a tile-based roguelike game inspired by [_Castle of the Winds_]. The gam
 
 The character can move around the map one step at a time, using a turn-based system which advances after the player's action. Moving into an enemy starts combat, and defeating enemies grants experience and levels.
 
-<img src="images/untitled-rpg.png" />
+<img src="images/untitled-rpg.png" width="480" />
