@@ -41,7 +41,7 @@ I joined the project in 2020, implementing classes for automated server registra
 
 OpenRVS is implemented in UnrealScript, by overriding classes from the UnrealScript for the base game.
 
-<img src="images/RavenShield.jpg" alt="OpenRVS" />
+<img src="images/RavenShield.jpg" height=480 alt="OpenRVS" />
 
 ## Building Escape Game (Unreal Engine 4, 2017)
 
@@ -49,7 +49,7 @@ This is a simple first-person game where the player is tasked with finding the w
 
 All game logic is implemented in C++.
 
-<img src="images/BuildingEscape.png" width="480" alt="Building Escape Game" />
+<img src="images/BuildingEscape.png" height=480 alt="Building Escape Game" />
 
 ## Pong Clone (Custom SDL2 Engine, 2017)
 
@@ -65,4 +65,4 @@ The character can move around the map one step at a time, using a turn-based sys
 
 Art assets are from Jesse Freeman's [Tile Crusader](https://web.archive.org/web/20161122175612/http://jessefreeman.com/articles/free-game-art-tile-crusader), released under a public license.
 
-<img src="images/UntitledRPG.png" width=480 alt="Untitled RPG" />
+<img src="images/UntitledRPG.png" height=480 alt="Untitled RPG" />
