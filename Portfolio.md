@@ -65,7 +65,7 @@ Github URL: https://github.com/willroberts/BuildingEscape
 
 # Pong Clone (Custom SDL2 Engine, 2017)
 
-This game uses a custom game engine written in Go which makes use of the SDL2 library for graphics, input handling, and fonts.
+This _Pong_ clone uses a custom game engine written in Go which makes use of the SDL2 library for graphics, input handling, and fonts. The game includes basic artificial intelligence, which will track the ball with a slight delay in reaction speed, enabling the player to win.
 
 Github URL: https://github.com/willroberts/pong
 
