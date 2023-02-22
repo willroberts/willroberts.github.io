@@ -45,6 +45,10 @@ OpenRVS is implemented in UnrealScript, by overriding classes from the UnrealScr
 
 ## Building Escape Game (Unreal Engine 4, 2017)
 
+This is a simple first-person game where the player is tasked with finding the way out of a single room. The level makes use of starter content, light sources, and a trigger volume which powers a hidden pressure plate in the room.
+
+All game logic is implemented in C++.
+
 <img src="images/BuildingEscape.png" alt="Building Escape Game" />
 
 ## Pong Clone (Custom SDL2 Engine, 2017)
