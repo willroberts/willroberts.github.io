@@ -67,7 +67,7 @@ This _Pong_ clone uses a custom game engine written in Go, which makes use of th
 
 Github URL: https://github.com/willroberts/pong
 
-<img alt="Photo currently unavailable." />
+<img src="images/Pong.png" height=400 alt="Pong Clone" />
 
 # Untitled RPG (Engo Engine, 2016)
 
