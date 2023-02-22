@@ -2,27 +2,24 @@
 
 Below is a list of games I have developed or contributed to.
 
-## To Do
-
-- Add 'At A Glance' sections?
-	- Game Engine?
-	- Year?
-	- Solo project or collaboration?
-
-## UE5 Multiplayer FPS (2023)
+## Multiplayer FPS (Unreal Engine 5, 2023)
 
 - C++
 - Plugin
 - Synchronization
 - Anti-Cheat
 
-## UE4 Hack and Slash (2023)
+<img />
+
+## Hack and Slash (Unreal Engine 4, 2023)
 
 - Vertex School
 - Blueprint
 - Paragon Assets
 
-## OpenDuelyst (2022)
+<img />
+
+## OpenDuelyst (Cocos2D Engine, 2022)
 
 I'm a maintainer for [_OpenDuelyst_](https://github.com/open-duelyst/duelyst), a game developed by Counterplay Games in 2016 and later open-sourced. The game uses the Cocos2d-HTML5 engine, and is written in CoffeeScript and JavaScript.
 
@@ -30,11 +27,11 @@ What have I done?
 
 <img />
 
-## Minecraft RCON Clients (2021)
+## Minecraft RCON Clients (Game Tools, 2021)
 
 I developed and published open-source RCON (remote server console) libraries written in [Go](https://github.com/willroberts/minecraft-client), [C#](https://github.com/willroberts/minecraft-client-csharp), [Rust](https://github.com/willroberts/minecraft-client-rs), [TypeScript](https://github.com/willroberts/minecraft-client-ts), [Kotlin](https://github.com/willroberts/minecraft-client-kotlin), and [Scala](https://github.com/willroberts/minecraft-client-scala) for Minecraft, which uses Valve's `srcds` RCON protocol. These libraries enable players who are hosting Minecraft servers to control them remotely, for administration or moderation purposes.
 
-Each library is designed to follow the best practices for each language, particularly around unit testing, linting, documentation, and packaging.
+Each library is designed to follow the best practices for its language, particularly around unit testing, linting, documentation, and packaging.
 
 ## OpenRVS (Unreal Engine 2, 2020)
 
