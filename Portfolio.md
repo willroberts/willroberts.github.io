@@ -49,9 +49,9 @@ OpenRVS is implemented in UnrealScript, by overriding classes from the UnrealScr
 
 ## Pong Clone (Custom SDL2 Engine, 2017)
 
-This game uses a custom game engine written in Go, which makes use of the SDL2 library for graphics, input handling, and fonts
+This game uses a custom game engine written in Go which makes use of the SDL2 library for graphics, input handling, and fonts.
 
-<img />
+<img alt="Photo currently unavailable." />
 
 ## Untitled RPG (Engo Engine, 2016)
 
@@ -61,4 +61,4 @@ The character can move around the map one step at a time, using a turn-based sys
 
 Art assets are from Jesse Freeman's [Tile Crusader](https://web.archive.org/web/20161122175612/http://jessefreeman.com/articles/free-game-art-tile-crusader), released under a public license.
 
-<img src="images/untitled-rpg.png" width="480" />
+<img src="images/UntitledRPG.png" width="480" />
