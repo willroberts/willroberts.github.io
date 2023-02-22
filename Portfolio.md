@@ -41,7 +41,7 @@ I joined the project in 2020, implementing classes for automated server registra
 
 OpenRVS is implemented in UnrealScript, by overriding classes from the UnrealScript for the base game.
 
-<img />
+<img src="images/RavenShield.jpg" alt="OpenRVS" />
 
 ## Building Escape Game (Unreal Engine 4, 2017)
 
