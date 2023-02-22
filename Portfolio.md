@@ -21,9 +21,9 @@ Below is a list of games I have developed or contributed to.
 
 # OpenDuelyst (Cocos2D Engine, 2022)
 
-I'm a maintainer for [_OpenDuelyst_](https://github.com/open-duelyst/duelyst), a game developed by Counterplay Games in 2016 and later open-sourced. The game uses the Cocos2d-HTML5 engine, and is written in CoffeeScript and JavaScript.
+I'm a maintainer for [_OpenDuelyst_](https://github.com/open-duelyst/duelyst), a game developed by Counterplay Games in 2016 and later open-sourced. The game uses the Cocos2d-HTML5 engine, and is written in CoffeeScript and JavaScript. The desktop client is built and packaged with Electron.
 
-Since joining the project in 2022, I have implemented x, y, and z.
+Since joining the project in 2022, I have implemented support for mobile web clients, a feature to grant full card collections to new users, new gift crates for the in-game currency, automated boss scheduling, and adjustments to the game's economy and progression systems. I also contributed bug fixes, new libraries for handling database connections, dependency upgrades, improvements to developer tooling, AWS infrastructure automation, documentation.
 
 <img src="images/OpenDuelyst.png" height=480 alt="OpenDuelyst"/>
 
