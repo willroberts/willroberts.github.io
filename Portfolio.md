@@ -2,22 +2,22 @@
 
 Below is a list of games I have developed or contributed to.
 
-## Multiplayer FPS (Unreal Engine 5, 2023)
+## WIP: Multiplayer FPS (Unreal Engine 5, 2023)
 
 - C++
 - Plugin
 - Synchronization
 - Anti-Cheat
 
-<img />
+<img alt="Photo currently unavailable." />
 
-## Hack and Slash (Unreal Engine 4, 2023)
+## WIP: Hack and Slash (Unreal Engine 4, 2023)
 
 - Vertex School
 - Blueprint
 - Paragon Assets
 
-<img />
+<img alt="Photo currently unavailable." />
 
 ## OpenDuelyst (Cocos2D Engine, 2022)
 
@@ -25,7 +25,7 @@ I'm a maintainer for [_OpenDuelyst_](https://github.com/open-duelyst/duelyst), a
 
 What have I done?
 
-<img />
+<img src="images/OpenDuelyst.png" height=480 alt="OpenDuelyst"/>
 
 ## Minecraft RCON Clients (Game Tools, 2021)
 
