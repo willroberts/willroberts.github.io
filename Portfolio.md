@@ -1,6 +1,6 @@
 # Game Development Portfolio
 
-Below is a list of games I have developed or contributed to.
+Below is a list of games I have developed or contributed to. All of the following projects are available on Github.
 
 # WIP: Multiplayer FPS (Unreal Engine 5, 2023)
 
@@ -39,7 +39,7 @@ I developed and published open-source RCON (remote server console) libraries wri
 
 Each library is designed to follow the best practices for its language, particularly around unit testing, linting, documentation, and packaging.
 
-Github URLs: https://github.com/willroberts/minecraft-client, https://github.com/willroberts/minecraft-client-csharp, https://github.com/willroberts/minecraft-client-rs, https://github.com/willroberts/minecraft-client-ts, https://github.com/willroberts/minecraft-client-kotlin, https://github.com/willroberts/minecraft-client-scala
+Github URLs: [Go](https://github.com/willroberts/minecraft-client), [C#](https://github.com/willroberts/minecraft-client-csharp), [Rust](https://github.com/willroberts/minecraft-client-rs), [TypeScript](https://github.com/willroberts/minecraft-client-ts), [Kotlin](https://github.com/willroberts/minecraft-client-kotlin), [Scala](https://github.com/willroberts/minecraft-client-scala)
 
 # OpenRVS (Unreal Engine 2, 2020)
 
