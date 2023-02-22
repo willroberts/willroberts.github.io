@@ -2,7 +2,7 @@
 
 Below is a list of games I have developed or contributed to. All of the following projects are available on Github.
 
-# WIP: Multiplayer FPS (Unreal Engine 5, 2023)
+# [In Development] Multiplayer FPS (Unreal Engine 5, 2023)
 
 - C++
 - Plugin
@@ -13,7 +13,7 @@ Github URL: https://github.com/willroberts/ue5-multiplayer
 
 <img alt="Photo currently unavailable." />
 
-# WIP: Hack and Slash (Unreal Engine 4, 2023)
+# [In Development] Hack and Slash (Unreal Engine 4, 2023)
 
 - Vertex School
 - Blueprint
@@ -65,7 +65,7 @@ Github URL: https://github.com/willroberts/BuildingEscape
 
 # Pong Clone (Custom SDL2 Engine, 2017)
 
-This _Pong_ clone uses a custom game engine written in Go which makes use of the SDL2 library for graphics, input handling, and fonts. The game includes basic artificial intelligence, which will track the ball with a slight delay in reaction speed, enabling the player to win.
+This _Pong_ clone uses a custom game engine written in Go, which makes use of the SDL2 library for graphics, input handling, and fonts. The game includes basic artificial intelligence which will track the ball with a slight delay in reaction speed, enabling the player to win.
 
 Github URL: https://github.com/willroberts/pong
 
