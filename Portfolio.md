@@ -45,7 +45,7 @@ OpenRVS is implemented in UnrealScript, by overriding classes from the UnrealScr
 
 ## Building Escape Game (Unreal Engine 4, 2017)
 
-<img />
+<img src="images/BuildingEscape.png" alt="Building Escape Game" />
 
 ## Pong Clone (Custom SDL2 Engine, 2017)
 
@@ -61,4 +61,4 @@ The character can move around the map one step at a time, using a turn-based sys
 
 Art assets are from Jesse Freeman's [Tile Crusader](https://web.archive.org/web/20161122175612/http://jessefreeman.com/articles/free-game-art-tile-crusader), released under a public license.
 
-<img src="images/UntitledRPG.png" width="480" />
+<img src="images/UntitledRPG.png" width="480" alt="Untitled RPG" />
