@@ -49,7 +49,7 @@ This is a simple first-person game where the player is tasked with finding the w
 
 All game logic is implemented in C++.
 
-<img src="images/BuildingEscape.png" width=480 alt="Building Escape Game" />
+<img src="images/BuildingEscape.png" width="480" alt="Building Escape Game" />
 
 ## Pong Clone (Custom SDL2 Engine, 2017)
 
