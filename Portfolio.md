@@ -25,9 +25,9 @@ Github URL: https://github.com/willroberts/ue4-hack-and-slash
 
 # OpenDuelyst (Cocos2D Engine, 2022)
 
-Since 2022, I have been the maintainer for the open-source release of _Duelyst_, a game developed by Counterplay Games in 2016. The game uses the Cocos2d-HTML5 engine, and is written in CoffeeScript and JavaScript. The desktop client is built and packaged with Electron.
+In 2022, I became the maintainer for the open-source release of _Duelyst_, a game developed by Counterplay Games in 2016. The game uses the Cocos2d-HTML5 engine, and is written in CoffeeScript and JavaScript. The desktop client is built and packaged with Electron.
 
-Since joining the project in 2022, I have implemented support for mobile web clients, a feature to grant full card collections to new users, new gift crates for the in-game currency, automated boss scheduling, and adjustments to the game's economy and progression systems. I also contributed bug fixes, new libraries for handling database connections, dependency upgrades, improvements to developer tooling, AWS infrastructure automation, and documentation.
+Since joining the project, I have implemented support for mobile web clients, a feature to grant full card collections to new users, new gift crates for the in-game currency, automated boss scheduling, and adjustments to the game's economy and progression systems. I also contributed bug fixes, new libraries for handling database connections, dependency upgrades, improvements to developer tooling, AWS infrastructure automation, and documentation.
 
 Github URL: https://github.com/open-duelyst/duelyst
 
@@ -43,11 +43,9 @@ Github URLs: [Go](https://github.com/willroberts/minecraft-client), [C#](https:/
 
 # OpenRVS (Unreal Engine 2, 2020)
 
-OpenRVS is a mod for _Tom Clancy's Rainbow Six 3: Raven Shield_, which was developed by Red Storm Entertainment and published by Ubisoft in 2003. It was originally developed by [Twi](https://github.com/rvstwi) in 2016, after Ubisoft closed the multiplayer servers for the original game.
+OpenRVS is a mod for _Tom Clancy's Rainbow Six 3: Raven Shield_, which was developed by Red Storm Entertainment and published by Ubisoft in 2003. The mod was originally developed by [Twi](https://github.com/rvstwi) in 2016, after Ubisoft closed the multiplayer servers for the original game. OpenRVS is implemented in UnrealScript, by overriding classes from the UnrealScript for the base game.
 
-I joined the project in 2020, implementing classes for automated server registration (i.e. simply starting an OpenRVS server will make it appear for other players), asynchronous HTTP requests, version checking, performance timing, logging, and common string operations.
-
-OpenRVS is implemented in UnrealScript, by overriding classes from the UnrealScript for the base game.
+I joined the project in 2020, implementing UnrealScript classes for automated server registration (i.e. simply starting an OpenRVS server will make it appear for other players), asynchronous HTTP requests, version checking, performance timing, logging, and common string operations.
 
 Github URL: https://github.com/OpenRVS-devs/OpenRVS
 
