@@ -25,7 +25,7 @@ Github URL: https://github.com/willroberts/ue4-hack-and-slash
 
 # OpenDuelyst (Cocos2D Engine, 2022)
 
-In 2022, I became the maintainer for the open-source release of _Duelyst_, a game developed by Counterplay Games in 2016. The game uses the Cocos2d-HTML5 engine, and is written in CoffeeScript and JavaScript. The desktop client is built and packaged with Electron.
+In 2022, I became the maintainer for the open-source release of _Duelyst_, a game developed by Counterplay Games in 2016. The game uses the [Cocos2d-html5](https://github.com/cocos2d/cocos2d-html5) engine, and is written in CoffeeScript and JavaScript. The desktop client is built and packaged with Electron.
 
 Since joining the project, I have implemented support for mobile web clients, a feature to grant full card collections to new users, new gift crates for the in-game currency, automated boss scheduling, and adjustments to the game's economy and progression systems. I also contributed bug fixes, new libraries for handling database connections, dependency upgrades, improvements to developer tooling, AWS infrastructure automation, and documentation.
 
