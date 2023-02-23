@@ -4,24 +4,29 @@ Below is a list of games I have developed or contributed to. All of the followin
 
 # [In Development] Multiplayer FPS (Unreal Engine 5, 2023)
 
-- C++
-- Plugin
-- Synchronization
-- Anti-Cheat
+This is a multiplayer first-person shooter prototype being created with Unreal Engine 5. All game logic is implemented in C++.
+
+Multiplayer functionality is provided by an Unreal Engine plugin I developed to leverage the Steam online subsystem.
+
+While the online multiplayer functionality is complete, other content such as levels, weapons, server-authoritative netcode, and anti-cheat is still in development.
 
 Github URL: https://github.com/willroberts/ue5-multiplayer
 
-<img alt="Photo currently unavailable." />
+# Hack and Slash Game (Unreal Engine 5, 2023)
 
-# [In Development] Hack and Slash (Unreal Engine 4, 2023)
+This is a game I created while taking classes at [The Vertex School](https://www.vertexschool.com/) with instructor Abraham Kim.
 
-- Vertex School
-- Blueprint
-- Paragon Assets
+The player has melee and ranged attacks, a dash skill, a homing missile ultimate skill, and the ability to use emotes. The level contains several enemies which lead to a final boss encounter.
+
+This necessitated working with many Unreal Engine systems, including dynamic collision with channels, hit detection with component overlap, damage tracking with variables, animation montages, animation notifies for particle effects and sounds, emitters, the projectile system, AI navigation meshes, AI target detection with pawn sensing, and more.
+
+The game's logic is implemented in Blueprint, with performance-sensitive pieces such as Event Tick operations implemented in C++. I first developed the game with Unreal Engine 4, then reimplemented the game in Unreal Engine 5, making use of new features such as IK Rig Retargeting.
+
+It uses art assets from _Paragon_, Epic's canceled third-person MOBA game.
 
 Github URL: https://github.com/willroberts/ue4-hack-and-slash
 
-<img alt="Photo currently unavailable." />
+<img src="images/HackAndSlash.png" height=400 alt="Hack and Slash Game" />
 
 # OpenDuelyst (Cocos2D Engine, 2022)
 
