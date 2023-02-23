@@ -24,7 +24,7 @@ Art assets are from _Paragon_, Epic's canceled third-person MOBA game.
 
 Github URL: [https://github.com/willroberts/ue4-hack-and-slash](https://github.com/willroberts/ue4-hack-and-slash)
 
-<img src="images/HackAndSlash.png" height=400 alt="Hack and Slash Game" />
+<img src="images/HackAndSlash.png" alt="Hack and Slash Game" />
 
 # OpenDuelyst (Cocos2D Engine, 2022)
 
@@ -34,7 +34,7 @@ Since joining the project, I have implemented support for mobile web clients, a 
 
 Github URL: [https://github.com/open-duelyst/duelyst](https://github.com/open-duelyst/duelyst)
 
-<img src="images/OpenDuelyst.png" height=400 alt="OpenDuelyst"/>
+<img src="images/OpenDuelyst.png" alt="OpenDuelyst"/>
 
 # Minecraft RCON Clients (Game Tools, 2021)
 
@@ -52,7 +52,7 @@ I joined the project in 2020, implementing UnrealScript classes for automated se
 
 Github URL: [https://github.com/OpenRVS-devs/OpenRVS](https://github.com/OpenRVS-devs/OpenRVS)
 
-<img src="images/RavenShield.jpg" height=400 alt="OpenRVS" />
+<img src="images/RavenShield.jpg" alt="OpenRVS" />
 
 # Building Escape Game (Unreal Engine 4, 2017)
 
@@ -62,7 +62,7 @@ All game logic is implemented in C++.
 
 Github URL: [https://github.com/willroberts/BuildingEscape](https://github.com/willroberts/BuildingEscape)
 
-<img src="images/BuildingEscape.png" height=400 alt="Building Escape Game" />
+<img src="images/BuildingEscape.png" alt="Building Escape Game" />
 
 # Pong Clone (Custom SDL2 Engine, 2017)
 
@@ -70,7 +70,7 @@ This _Pong_ clone uses a custom game engine written in Go, which makes use of th
 
 Github URL: [https://github.com/willroberts/pong](https://github.com/willroberts/pong)
 
-<img src="images/Pong.png" height=400 alt="Pong Clone" />
+<img src="images/Pong.png" alt="Pong Clone" />
 
 # Untitled RPG (Engo Engine, 2016)
 
@@ -82,4 +82,4 @@ Art assets are from Jesse Freeman's [Tile Crusader](https://web.archive.org/web/
 
 Github URL: [https://github.com/willroberts/rpg](https://github.com/willroberts/rpg)
 
-<img src="images/UntitledRPG.png" height=400 alt="Untitled RPG" />
+<img src="images/UntitledRPG.png" alt="Untitled RPG" />
