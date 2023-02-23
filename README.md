@@ -2,13 +2,13 @@
 
 Below is a list of games I have developed or contributed to. All of the following projects are available on Github.
 
-# [In Development] Multiplayer FPS (Unreal Engine 5, 2023)
+# In-Development Multiplayer FPS (Unreal Engine 5, 2023)
 
 This is a multiplayer first-person shooter prototype being created with Unreal Engine 5. Multiplayer functionality is provided by an Unreal Engine plugin I developed to leverage the [Steam Online Subsystem](https://docs.unrealengine.com/5.1/en-US/online-subsystem-steam-interface-in-unreal-engine/). Both the game and the plugin are implemented in C++.
 
 While the online multiplayer functionality is complete, other content such as levels, weapons, server-authoritative netcode, and anti-cheat is still in development.
 
-Github URL: https://github.com/willroberts/ue5-multiplayer
+Github URL: [https://github.com/willroberts/ue5-multiplayer](https://github.com/willroberts/ue5-multiplayer)
 
 # Hack and Slash Game (Unreal Engine 5, 2023)
 
@@ -22,7 +22,7 @@ The game's logic is implemented in event-driven Blueprints, with performance-sen
 
 Art assets are from _Paragon_, Epic's canceled third-person MOBA game.
 
-Github URL: https://github.com/willroberts/ue4-hack-and-slash
+Github URL: [https://github.com/willroberts/ue4-hack-and-slash](https://github.com/willroberts/ue4-hack-and-slash)
 
 <img src="images/HackAndSlash.png" height=400 alt="Hack and Slash Game" />
 
@@ -32,7 +32,7 @@ In 2022, I became the maintainer for the open-source release of _Duelyst_, a gam
 
 Since joining the project, I have implemented support for mobile web clients, a feature to grant full card collections to new users, new gift crates for the in-game currency, automated boss scheduling, and adjustments to the game's economy and progression systems. I also contributed bug fixes, new libraries for handling database connections, dependency upgrades, improvements to developer tooling, AWS infrastructure automation, and documentation.
 
-Github URL: https://github.com/open-duelyst/duelyst
+Github URL: [https://github.com/open-duelyst/duelyst](https://github.com/open-duelyst/duelyst)
 
 <img src="images/OpenDuelyst.png" height=400 alt="OpenDuelyst"/>
 
@@ -50,7 +50,7 @@ OpenRVS is a mod for _Tom Clancy's Rainbow Six 3: Raven Shield_, which was devel
 
 I joined the project in 2020, implementing UnrealScript classes for automated server registration (i.e. simply starting an OpenRVS server will make it appear for other players), asynchronous HTTP requests, version checking, performance timing, logging, and common string operations.
 
-Github URL: https://github.com/OpenRVS-devs/OpenRVS
+Github URL: [https://github.com/OpenRVS-devs/OpenRVS](https://github.com/OpenRVS-devs/OpenRVS)
 
 <img src="images/RavenShield.jpg" height=400 alt="OpenRVS" />
 
@@ -60,7 +60,7 @@ This is a simple first-person game where the player is tasked with finding the w
 
 All game logic is implemented in C++.
 
-Github URL: https://github.com/willroberts/BuildingEscape
+Github URL: [https://github.com/willroberts/BuildingEscape](https://github.com/willroberts/BuildingEscape)
 
 <img src="images/BuildingEscape.png" height=400 alt="Building Escape Game" />
 
@@ -68,7 +68,7 @@ Github URL: https://github.com/willroberts/BuildingEscape
 
 This _Pong_ clone uses a custom game engine written in Go, which makes use of the SDL2 library for graphics, input handling, and fonts. The game includes basic artificial intelligence which will track the ball with a slight delay in reaction speed, enabling the player to win.
 
-Github URL: https://github.com/willroberts/pong
+Github URL: [https://github.com/willroberts/pong](https://github.com/willroberts/pong)
 
 <img src="images/Pong.png" height=400 alt="Pong Clone" />
 
@@ -80,6 +80,6 @@ The character can move around the map one step at a time, using a turn-based sys
 
 Art assets are from Jesse Freeman's [Tile Crusader](https://web.archive.org/web/20161122175612/http://jessefreeman.com/articles/free-game-art-tile-crusader), released under a public license.
 
-Github URL: https://github.com/willroberts/rpg
+Github URL: [https://github.com/willroberts/rpg](https://github.com/willroberts/rpg)
 
 <img src="images/UntitledRPG.png" height=400 alt="Untitled RPG" />
