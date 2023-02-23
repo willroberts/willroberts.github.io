@@ -4,9 +4,7 @@ Below is a list of games I have developed or contributed to. All of the followin
 
 # [In Development] Multiplayer FPS (Unreal Engine 5, 2023)
 
-This is a multiplayer first-person shooter prototype being created with Unreal Engine 5. All game logic is implemented in C++.
-
-Multiplayer functionality is provided by an Unreal Engine plugin I developed to leverage the Steam online subsystem.
+This is a multiplayer first-person shooter prototype being created with Unreal Engine 5. Multiplayer functionality is provided by an Unreal Engine plugin I developed to leverage the [Steam Online Subsystem](https://docs.unrealengine.com/5.1/en-US/online-subsystem-steam-interface-in-unreal-engine/). Both the game and the plugin are implemented in C++.
 
 While the online multiplayer functionality is complete, other content such as levels, weapons, server-authoritative netcode, and anti-cheat is still in development.
 
