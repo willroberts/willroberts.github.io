@@ -24,6 +24,8 @@ Art assets are from _Paragon_, Epic's canceled third-person MOBA game.
 
 Github URL: [https://github.com/willroberts/ue4-hack-and-slash](https://github.com/willroberts/ue4-hack-and-slash)
 
+Video walkthrough: [https://vimeo.com/804905608](https://vimeo.com/804905608)
+
 <img src="images/HackAndSlash.png" alt="Hack and Slash Game" />
 
 # OpenDuelyst (Cocos2D Engine, 2022)
