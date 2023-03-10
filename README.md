@@ -6,7 +6,7 @@ Below is a list of games I have developed or contributed to. All of the followin
 
 This is an Unreal Engine plugin I developed in C++ to leverage the [Steam Online Subsystem](https://docs.unrealengine.com/5.1/en-US/online-subsystem-steam-interface-in-unreal-engine/).
 
-The plugin provides an implementation of the Online Subsystem's session management functionality, as well as a Widget-based debug menu and a reusable Logger library.
+The plugin provides an implementation of the Online Subsystem's session management functionality for online multiplayer, as well as a Widget-based debug menu and a reusable Logger library.
 
 Github URL: [https://github.com/willroberts/ue5-multiplayer-plugin](https://github.com/willroberts/ue5-multiplayer-plugin)
 
