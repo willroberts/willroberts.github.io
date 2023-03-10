@@ -2,13 +2,13 @@
 
 Below is a list of games I have developed or contributed to. All of the following projects are available on Github.
 
-# In-Development Multiplayer FPS (Unreal Engine 5, 2023)
+# Multiplayer Sessions Plugin (Unreal Engine 5, 2023)
 
-This is a multiplayer first-person shooter prototype being created with Unreal Engine 5. Multiplayer functionality is provided by an Unreal Engine plugin I developed to leverage the [Steam Online Subsystem](https://docs.unrealengine.com/5.1/en-US/online-subsystem-steam-interface-in-unreal-engine/). Both the game and the plugin are implemented in C++.
+This is an Unreal Engine plugin I developed in C++ to leverage the [Steam Online Subsystem](https://docs.unrealengine.com/5.1/en-US/online-subsystem-steam-interface-in-unreal-engine/).
 
-While the online multiplayer functionality is complete, other content such as levels, weapons, server-authoritative netcode, and anti-cheat is still in development.
+The plugin provides an implementation of the Online Subsystem's session management functionality, as well as a Widget-based debug menu and a reusable Logger library.
 
-Github URL: [https://github.com/willroberts/ue5-multiplayer](https://github.com/willroberts/ue5-multiplayer)
+Github URL: [https://github.com/willroberts/ue5-multiplayer-plugin](https://github.com/willroberts/ue5-multiplayer-plugin)
 
 # Hack and Slash Game (Unreal Engine 5, 2023)
 
