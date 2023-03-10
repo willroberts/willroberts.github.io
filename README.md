@@ -22,7 +22,7 @@ The game's logic is implemented in event-driven Blueprints, with performance-sen
 
 Art assets are from _Paragon_, Epic's canceled third-person MOBA game.
 
-Github URLs: [Unreal Engine 4.27](https://github.com/willroberts/ue4-hack-and-slash), [Unreal Engine 5.1](https://github.com/willroberts/ue5-hack-and-slash)
+Github URLs: [Unreal Engine 5](https://github.com/willroberts/ue5-hack-and-slash), [Unreal Engine 4](https://github.com/willroberts/ue4-hack-and-slash)
 
 Video walkthrough: [https://vimeo.com/804905608](https://vimeo.com/804905608)
 
