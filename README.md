@@ -6,7 +6,7 @@ Below is a list of games I have developed or contributed to. All of the followin
 
 This is an Unreal Engine plugin I developed in C++ to leverage the [Online Subsystem](https://docs.unrealengine.com/5.1/en-US/online-subsystem-in-unreal-engine/), providing online multiplayer sessions via Steam, Epic Online Services, or a Local Area Network.
 
-In addition to the core session management functionality, the plugin includes a Widget-based debug menu, a debug game mode which logs player actions, and a reusable Logger library for printing to both the screen and writing to file.
+In addition to the core session management functionality, the plugin includes a Widget-based debug menu, a debug game mode which logs player actions, and a reusable Logger library for printing to the screen and writing to the log file.
 
 Github URL: [https://github.com/willroberts/ue5-multiplayer-plugin](https://github.com/willroberts/ue5-multiplayer-plugin)
 
