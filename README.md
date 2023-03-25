@@ -10,7 +10,7 @@ In addition to the core session management functionality, the plugin includes a 
 
 Github URL: [https://github.com/willroberts/ue5-multiplayer-plugin](https://github.com/willroberts/ue5-multiplayer-plugin)
 
-# Hack and Slash Game (Unreal Engine 5, 2023)
+# Hack and Slash Game (Unreal Engine 4 & 5, 2023)
 
 This is a game I created while taking classes at [The Vertex School](https://www.vertexschool.com/) with instructor Abraham Kim.
 
@@ -18,7 +18,7 @@ The player has melee and ranged attacks, a dash skill, a homing missile ultimate
 
 This necessitated working with many Unreal Engine systems, including dynamic collision with channels, hit detection with component overlap, materials and meshes, animation montages, blend spaces, animation notifies for particle effects and sounds, emitters, the projectile system, AI navigation meshes, AI target detection with pawn sensing, and more.
 
-The game's logic is implemented in event-driven Blueprints, with performance-sensitive pieces such as Event Tick operations implemented in C++. I first developed the game with Unreal Engine 4, then reimplemented the game in Unreal Engine 5, making use of new features such as IK Rig Retargeting.
+The game's logic is implemented in event-driven Blueprints, with performance-sensitive pieces such as Event Tick operations implemented in C++. I first developed the game with Unreal Engine 4, then reimplemented the game in Unreal Engine 5, making use of new features such as IK Rig retargeting, Lumen global illumination, and virtual shadow maps.
 
 Art assets are from _Paragon_, Epic's canceled third-person MOBA game.
 
