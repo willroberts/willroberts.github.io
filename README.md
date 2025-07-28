@@ -1,6 +1,42 @@
 # Game Development Portfolio
 
-Below is a list of games I have developed or contributed to. All of the following projects are available on Github.
+Below is a list of games and game tools I have developed or contributed to. All of the following projects are available on Github.
+
+# Godot GDExtension Demo, C++ (Godot 4, 2025)
+
+While Godot offers precompiled engines for GDScript and C# integration, it's also possible to make use of Godot's GDExtension API to integrate nearly any language with the engine. This project demonstrates native C++ integration of runtime classes (with the `GDREGISTER_RUNTIME_CLASS()` binding) and runtime+editor classes (with the `GDREGISTER_CLASS()` binding), both of which seamlessly integrate with GDScript once compiled.
+
+This is useful since GDScript may not offer ideal performance in some scenarios, and the C# build of Godot may not offer the best compatibility (such as the lack of support for web exports in the build process).
+
+Github URL: [https://github.com/willroberts/godot-cpp-gdextension](https://github.com/willroberts/godot-cpp-gdextension)
+
+# Godot Platformer, GDScript (Godot 4, 2025)
+
+After working with Godot and C#, this project uses the native GDScript language to implement a basic 2D platformer. Makes use of global state, signals, animations, audio streams, audio buses, cameras, tilemaps, collision, physics, raycasting, timescale, and timers. Based on the Brackeys Godot tutorial.
+
+Github URL: [https://github.com/willroberts/godot-platformer](https://github.com/willroberts/godot-platformer)
+
+<img src="images/GodotPlatformer.png" alt="Godot Platformer" />
+
+# Godot Grid Engine, C# (Godot 4, 2023)
+
+Following my earlier work with A* pathfinding for grid-based movement, this project includes a reusable foundation for turn-based games which operate on a two-dimensional grid. Provides C# classes for the `Grid`, the `Board`, and `BoardLayer` objects which represent different types of units which may coexist on the board.
+
+Github URL: [https://github.com/willroberts/godot-grid-engine](https://github.com/willroberts/godot-grid-engine)
+
+# Godot Tactical RPG Movement Demo, C# (Godot 4, 2023)
+
+Based on a GDQuest tutorial using Godot 3 and GDScript, this project was adapted to use C# while accounting for API changes in the major version update. Implements a two-dimensional grid of units, which can be selected to begin pathfinding using the A* algorithm. The shortest path from the unit to the cursor is computed and rendered.
+
+Github URL: [https://github.com/willroberts/godot-trpg-movement](https://github.com/willroberts/godot-trpg-movement)
+
+<img src="https://github.com/willroberts/godot-trpg-movement/raw/main/demo.gif" alt="Godot Tactical RPG Movement Demo" />
+
+# Multiplayer Third-Person Shooter (Unreal Engine 5, 2023)
+
+Based on Stephen Ulibarri's UE5 Multiplayer Shooter course, this project involved working with session-based matchmaking, lag compensation via server-side rewind, selective replication, delegates, animation state machines, and a variety of weapons with hitscan-, projectile-, and area-based damage systems. Makes use of my multiplayer sessions plugin listed below.
+
+Github URL: [https://github.com/willroberts/ue5-multiplayer-shooter](https://github.com/willroberts/ue5-multiplayer-shooter)
 
 # Multiplayer Sessions Plugin (Unreal Engine 5, 2023)
 
@@ -38,7 +74,7 @@ Github URL: [https://github.com/open-duelyst/duelyst](https://github.com/open-du
 
 <img src="images/OpenDuelyst.png" alt="OpenDuelyst"/>
 
-# Minecraft RCON Clients (Game Tools, 2021)
+# Minecraft RCON Clients (Various, 2021)
 
 I developed and published open-source RCON (remote server console) libraries written in Go, C#, Rust, TypeScript, Kotlin, and Scala for _Minecraft_, which uses Valve's [Source Engine RCON Protocol](https://developer.valvesoftware.com/wiki/Source_RCON_Protocol). These libraries enable players who are hosting _Minecraft_ servers to control them remotely, for administration or moderation purposes.
 
