@@ -2,43 +2,17 @@
 
 Below is a list of games and game tools I have developed or contributed to. All of the following projects are available on Github.
 
-# Godot GDExtension Demo, C++ (Godot 4, 2025)
+This list includes hobby and volunteer work. For my professional CV, see [LinkedIn](https://linkedin.com/in/willroberts11).
 
-While Godot offers precompiled engines for GDScript and C# integration, it's also possible to make use of Godot's GDExtension API to integrate nearly any language with the engine. This project demonstrates native C++ integration of runtime classes (with the `GDREGISTER_RUNTIME_CLASS()` binding) and runtime+editor classes (with the `GDREGISTER_CLASS()` binding), both of which seamlessly integrate with GDScript once compiled.
+<details><summary>Unreal Engine</summary>
 
-This is useful since GDScript may not offer ideal performance in some scenarios, and the C# build of Godot may not offer the best compatibility (such as the lack of support for web exports in the build process).
-
-Github URL: [https://github.com/willroberts/godot-cpp-gdextension](https://github.com/willroberts/godot-cpp-gdextension)
-
-# Godot Platformer, GDScript (Godot 4, 2025)
-
-After working with Godot and C#, this project uses the native GDScript language to implement a basic 2D platformer. Makes use of global state, signals, animations, audio streams, audio buses, cameras, tilemaps, collision, physics, raycasting, timescale, and timers. Based on the Brackeys Godot tutorial.
-
-Github URL: [https://github.com/willroberts/godot-platformer](https://github.com/willroberts/godot-platformer)
-
-<img src="images/GodotPlatformer.png" alt="Godot Platformer" />
-
-# Godot Grid Engine, C# (Godot 4, 2023)
-
-Following my earlier work with A* pathfinding for grid-based movement, this project includes a reusable foundation for turn-based games which operate on a two-dimensional grid. Provides C# classes for the `Grid`, the `Board`, and `BoardLayer` objects which represent different types of units which may coexist on the board.
-
-Github URL: [https://github.com/willroberts/godot-grid-engine](https://github.com/willroberts/godot-grid-engine)
-
-# Godot Tactical RPG Movement Demo, C# (Godot 4, 2023)
-
-Based on a GDQuest tutorial using Godot 3 and GDScript, this project was adapted to use C# while accounting for API changes in the major version update. Implements a two-dimensional grid of units, which can be selected to begin pathfinding using the A* algorithm. The shortest path from the unit to the cursor is computed and rendered.
-
-Github URL: [https://github.com/willroberts/godot-trpg-movement](https://github.com/willroberts/godot-trpg-movement)
-
-<img src="https://github.com/willroberts/godot-trpg-movement/raw/main/demo.gif" alt="Godot Tactical RPG Movement Demo" />
-
-# Multiplayer Third-Person Shooter (Unreal Engine 5, 2023)
+## Multiplayer Third-Person Shooter (Unreal Engine 5, 2023)
 
 Based on Stephen Ulibarri's UE5 Multiplayer Shooter course, this project involved working with session-based matchmaking, lag compensation via server-side rewind, selective replication, delegates, animation state machines, and a variety of weapons with hitscan-, projectile-, and area-based damage systems. Makes use of my multiplayer sessions plugin listed below.
 
 Github URL: [https://github.com/willroberts/ue5-multiplayer-shooter](https://github.com/willroberts/ue5-multiplayer-shooter)
 
-# Multiplayer Sessions Plugin (Unreal Engine 5, 2023)
+## Multiplayer Sessions Plugin (Unreal Engine 5, 2023)
 
 This is an Unreal Engine plugin I developed in C++ to leverage the [Online Subsystem](https://docs.unrealengine.com/5.1/en-US/online-subsystem-in-unreal-engine/), providing online multiplayer sessions via Steam, Epic Online Services, or a Local Area Network.
 
@@ -46,7 +20,7 @@ In addition to the core session management functionality, the plugin includes a 
 
 Github URL: [https://github.com/willroberts/ue5-multiplayer-plugin](https://github.com/willroberts/ue5-multiplayer-plugin)
 
-# Hack and Slash Game (Unreal Engine 4 & 5, 2023)
+## Hack and Slash Game (Unreal Engine 4 & 5, 2023)
 
 This is a game I created while taking classes at [The Vertex School](https://www.vertexschool.com/) with instructor Abraham Kim.
 
@@ -64,25 +38,7 @@ Video walkthrough: [https://vimeo.com/804905608](https://vimeo.com/804905608)
 
 <img src="images/HackAndSlash.png" alt="Hack and Slash Game" />
 
-# OpenDuelyst (Cocos2D Engine, 2022)
-
-In 2022, I became the maintainer for the open-source release of _Duelyst_, a game developed by Counterplay Games in 2016. The game uses the [Cocos2d-html5](https://github.com/cocos2d/cocos2d-html5) engine, and is written in CoffeeScript and JavaScript. The desktop client is built and packaged with Electron.
-
-Since joining the project, I have implemented support for mobile web clients, a feature to grant full card collections to new users, new gift crates for the in-game currency, automated boss scheduling, and adjustments to the game's economy and progression systems. I also contributed bug fixes, new libraries for handling database connections, dependency upgrades, improvements to developer tooling, AWS infrastructure automation, and documentation.
-
-Github URL: [https://github.com/open-duelyst/duelyst](https://github.com/open-duelyst/duelyst)
-
-<img src="images/OpenDuelyst.png" alt="OpenDuelyst"/>
-
-# Minecraft RCON Clients (Various, 2021)
-
-I developed and published open-source RCON (remote server console) libraries written in Go, C#, Rust, TypeScript, Kotlin, and Scala for _Minecraft_, which uses Valve's [Source Engine RCON Protocol](https://developer.valvesoftware.com/wiki/Source_RCON_Protocol). These libraries enable players who are hosting _Minecraft_ servers to control them remotely, for administration or moderation purposes.
-
-Each library is designed to follow the best practices for its language, particularly around unit testing, integration testing, linting, documentation, and packaging.
-
-Github URLs: [Go](https://github.com/willroberts/minecraft-client), [C#](https://github.com/willroberts/minecraft-client-csharp), [Rust](https://github.com/willroberts/minecraft-client-rs), [TypeScript](https://github.com/willroberts/minecraft-client-ts), [Kotlin](https://github.com/willroberts/minecraft-client-kotlin), [Scala](https://github.com/willroberts/minecraft-client-scala)
-
-# OpenRVS (Unreal Engine 2, 2020)
+## OpenRVS (Unreal Engine 2, 2020)
 
 OpenRVS is a mod for _Tom Clancy's Rainbow Six 3: Raven Shield_, which was developed by Red Storm Entertainment and published by Ubisoft in 2003. The mod was originally developed by [Twi](https://github.com/rvstwi) in 2016, after Ubisoft closed the multiplayer servers for the original game. OpenRVS is implemented in UnrealScript, by overriding classes from the UnrealScript for the base game.
 
@@ -92,7 +48,7 @@ Github URL: [https://github.com/OpenRVS-devs/OpenRVS](https://github.com/OpenRVS
 
 <img src="images/RavenShield.jpg" alt="OpenRVS" />
 
-# Building Escape Game (Unreal Engine 4, 2017)
+## Building Escape Game (Unreal Engine 4, 2017)
 
 This is a simple first-person game where the player is tasked with finding the way out of a single room. The level makes use of starter content, light sources, and a trigger volume which powers a hidden pressure plate in the room.
 
@@ -102,7 +58,57 @@ Github URL: [https://github.com/willroberts/BuildingEscape](https://github.com/w
 
 <img src="images/BuildingEscape.png" alt="Building Escape Game" />
 
-# Pong Clone (Custom SDL2 Engine, 2017)
+</details>
+
+<details><summary>Godot</summary>
+
+## GDExtension Demo, C++ (Godot 4, 2025)
+
+While Godot offers precompiled engines for GDScript and C# integration, it's also possible to make use of Godot's GDExtension API to integrate nearly any language with the engine. This project demonstrates native C++ integration of runtime classes (with the `GDREGISTER_RUNTIME_CLASS()` binding) and runtime+editor classes (with the `GDREGISTER_CLASS()` binding), both of which seamlessly integrate with GDScript once compiled.
+
+This is useful since GDScript may not offer ideal performance in some scenarios, and the C# build of Godot may not offer the best compatibility (such as the lack of support for web exports in the build process).
+
+Github URL: [https://github.com/willroberts/godot-cpp-gdextension](https://github.com/willroberts/godot-cpp-gdextension)
+
+## 2D Platformer, GDScript (Godot 4, 2025)
+
+After working with Godot and C#, this project uses the native GDScript language to implement a basic 2D platformer. Makes use of global state, signals, animations, audio streams, audio buses, cameras, tilemaps, collision, physics, raycasting, timescale, and timers. Based on the Brackeys Godot tutorial.
+
+Github URL: [https://github.com/willroberts/godot-platformer](https://github.com/willroberts/godot-platformer)
+
+<img src="images/GodotPlatformer.gif" alt="Godot Platformer" />
+
+## Godot Grid Engine, C# (Godot 4, 2023)
+
+This is a Godot library for games with grid-based movement. Provides a reusable foundation for turn-based games which operate on a two-dimensional grid, such as Tactical RPGs. Provides realtime computation of the shortest path between two grid cells using the A* pathfinding algorithm. Provides native C# classes for representing grids, multi-layer boards, and layers which can contain actors which implement the `IOccupant` interface.
+
+Github URL: [https://github.com/willroberts/godot-grid-engine](https://github.com/willroberts/godot-grid-engine)
+
+<img src="images/GodotGridEngine.gif" alt="Godot Grid Engine" />
+
+</details>
+
+<details><summary>Other Engines</summary>
+
+## OpenDuelyst (Cocos2D Engine, 2022)
+
+In 2022, I became the maintainer for the open-source release of _Duelyst_, a game developed by Counterplay Games in 2016. The game uses the [Cocos2d-html5](https://github.com/cocos2d/cocos2d-html5) engine, and is written in CoffeeScript and JavaScript. The desktop client is built and packaged with Electron.
+
+Since joining the project, I have implemented support for mobile web clients, a feature to grant full card collections to new users, new gift crates for the in-game currency, automated boss scheduling, and adjustments to the game's economy and progression systems. I also contributed bug fixes, new libraries for handling database connections, dependency upgrades, improvements to developer tooling, AWS infrastructure automation, and documentation.
+
+Github URL: [https://github.com/open-duelyst/duelyst](https://github.com/open-duelyst/duelyst)
+
+<img src="images/OpenDuelyst.png" alt="OpenDuelyst"/>
+
+## Minecraft RCON Clients (Various, 2021)
+
+I developed and published open-source RCON (remote server console) libraries written in Go, C#, Rust, TypeScript, Kotlin, and Scala for _Minecraft_, which uses Valve's [Source Engine RCON Protocol](https://developer.valvesoftware.com/wiki/Source_RCON_Protocol). These libraries enable players who are hosting _Minecraft_ servers to control them remotely, for administration or moderation purposes.
+
+Each library is designed to follow the best practices for its language, particularly around unit testing, integration testing, linting, documentation, and packaging.
+
+Github URLs: [Go](https://github.com/willroberts/minecraft-client), [C#](https://github.com/willroberts/minecraft-client-csharp), [Rust](https://github.com/willroberts/minecraft-client-rs), [TypeScript](https://github.com/willroberts/minecraft-client-ts), [Kotlin](https://github.com/willroberts/minecraft-client-kotlin), [Scala](https://github.com/willroberts/minecraft-client-scala)
+
+## Pong Clone (Custom SDL2 Engine, 2017)
 
 This _Pong_ clone uses a custom game engine written in Go, which makes use of the SDL2 library for graphics, input handling, and fonts. The game includes basic artificial intelligence which will track the ball with a slight delay in reaction speed, enabling the player to win.
 
@@ -110,7 +116,7 @@ Github URL: [https://github.com/willroberts/pong](https://github.com/willroberts
 
 <img src="images/Pong.png" alt="Pong Clone" />
 
-# Untitled RPG (Engo Engine, 2016)
+## Untitled RPG (Engo Engine, 2016)
 
 This is a tile-based roguelike game inspired by [_Castle of the Winds_](https://en.wikipedia.org/wiki/Castle_of_the_Winds). The game is written in Go, using the [Engo](https://engoengine.github.io/) game engine.
 
@@ -121,3 +127,5 @@ Art assets are from Jesse Freeman's [Tile Crusader](https://web.archive.org/web/
 Github URL: [https://github.com/willroberts/rpg](https://github.com/willroberts/rpg)
 
 <img src="images/UntitledRPG.png" alt="Untitled RPG" />
+
+</details>
