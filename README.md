@@ -78,7 +78,7 @@ Github URL: [https://github.com/willroberts/godot-platformer](https://github.com
 
 ## Godot Grid Engine, C# (Godot 4, 2023)
 
-This is a Godot library for games with grid-based movement, such as Tactical RPGs. Provides realtime computation of the shortest path between two grid cells using the A* pathfinding algorithm, as well as native C# classes for representing grids, multi-layer boards, and layers which can contain actors which implement the `IOccupant` interface.
+This is a Godot library for games with grid-based movement, such as Tactical RPGs. Provides realtime computation of the shortest path between two grid cells using the A* pathfinding algorithm, as well as native C# classes for representing grids, multi-layer boards, and layers which can contain actors implementing the `IOccupant` interface.
 
 Github URL: [https://github.com/willroberts/godot-grid-engine](https://github.com/willroberts/godot-grid-engine)
 
