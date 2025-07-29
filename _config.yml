@@ -1,5 +1,6 @@
 title: "Will Roberts"
 description: "Gameplay & Server Programmer"
 theme: jekyll-theme-slate
-kramdown:
-  parse_block_html: true
+markdown: CommonMarkGhPages
+#kramdown:
+#  parse_block_html: true
