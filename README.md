@@ -12,6 +12,8 @@ A third-person, free-for-all shooter with peer-to-peer matchmaking. This project
 
 Github URL: [https://github.com/willroberts/ue5-multiplayer-shooter](https://github.com/willroberts/ue5-multiplayer-shooter)
 
+<img src="images/ThirdPersonShooter.png" alt="Multiplayer Third-Person Shooter" />
+
 ## Multiplayer Sessions Plugin (Unreal Engine 5, 2023)
 
 This is an Unreal Engine plugin developed in C++ to leverage the [Online Subsystem](https://docs.unrealengine.com/5.1/en-US/online-subsystem-in-unreal-engine/), providing online multiplayer sessions via Steam, Epic Online Services, or a Local Area Network.
