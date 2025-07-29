@@ -4,8 +4,7 @@ Below is a list of games and game tools I have developed or contributed to. This
 
 All of the following projects are available on Github.
 
-<details open>
-<summary>Unreal Engine</summary>
+<details><summary>Unreal Engine</summary>
 
 ## Multiplayer Third-Person Shooter (Unreal Engine 5, 2023)
 
@@ -61,8 +60,7 @@ Github URL: [https://github.com/willroberts/BuildingEscape](https://github.com/w
 
 </details>
 
-<details open>
-<summary>Godot</summary>
+<details><summary>Godot</summary>
 
 ## GDExtension Demo, C++ (Godot 4, 2025)
 
@@ -90,8 +88,7 @@ Github URL: [https://github.com/willroberts/godot-grid-engine](https://github.co
 
 </details>
 
-<details open>
-<summary>Other Engines</summary>
+<details><summary>Other Engines</summary>
 
 ## OpenDuelyst (Cocos2D Engine, 2022)
 
